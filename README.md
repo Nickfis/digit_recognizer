@@ -5,3 +5,5 @@ Please note that I have done this project as an introduction to the topic and it
 https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6
 At a lot of points it is exactly the same code, since I did this to enhance my understanding of CNNs. Therefore this cannot be seen as an individual project done by me at this point.
 I will however add a personal note to it as soon as I have fully grasped all the underlying concepts.
+Furthermore some inspiration was taken from Ding Li, whose Kernel further improved on the model from Yassine Ghouzam. This can be found under the following link:
+https://www.kaggle.com/dingli/digits-recognition-with-cnn-keras
